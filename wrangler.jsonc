@@ -1,0 +1,15 @@
+{
+  "name": "nourish-nibbles",
+  "compatibility_date": "2026-02-20",
+  "main": "src/index.ts",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  },
+  "routes": [
+    {
+      "pattern": "nourish-nibbles.com.au/*",
+      "zone_name": "nourish-nibbles.com.au"
+    }
+  ]
+}
